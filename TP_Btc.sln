@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TP_Btc", "TP_Btc\TP_Btc.vcxproj", "{1CA975D4-DFD2-4BA5-B8B4-D293C80D33BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CA975D4-DFD2-4BA5-B8B4-D293C80D33BC}.Debug|x64.ActiveCfg = Debug|x64
+		{1CA975D4-DFD2-4BA5-B8B4-D293C80D33BC}.Debug|x64.Build.0 = Debug|x64
+		{1CA975D4-DFD2-4BA5-B8B4-D293C80D33BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{1CA975D4-DFD2-4BA5-B8B4-D293C80D33BC}.Debug|x86.Build.0 = Debug|Win32
+		{1CA975D4-DFD2-4BA5-B8B4-D293C80D33BC}.Release|x64.ActiveCfg = Release|x64
+		{1CA975D4-DFD2-4BA5-B8B4-D293C80D33BC}.Release|x64.Build.0 = Release|x64
+		{1CA975D4-DFD2-4BA5-B8B4-D293C80D33BC}.Release|x86.ActiveCfg = Release|Win32
+		{1CA975D4-DFD2-4BA5-B8B4-D293C80D33BC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57CC47B2-E474-4FB4-8E3F-041B457693AF}
+	EndGlobalSection
+EndGlobal
